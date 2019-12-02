@@ -1,6 +1,20 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
+import events from '../views/newAndEvents'
+import policy from '../views/BusinessPolicy'
+import Contact from '../views/Contact'
+import services from '@/components/services/services.vue'
+import gallery from '@/views/gallery'
+
+import UIkit from 'uikit';
+import Icons from 'uikit/dist/js/uikit-icons';
+import 'uikit/dist/css/uikit.min.css'
+
+// loads the Icon plugin
+UIkit.use(Icons);
+
+
 
 Vue.use(VueRouter)
 
@@ -10,6 +24,33 @@ const routes = [
     name: 'home',
     component: Home
   },
+  {
+    path: '/events',
+    name: 'newAndEvents',
+    component: events
+  },
+
+  {
+    path: '/policy',
+    name: 'BusinessPolicy',
+    component: policy
+  },
+  {
+    path: '/contact',
+    name: 'Contact',
+    component: Contact
+  },
+  {
+    path: '/services',
+    name: 'services',
+    component: services
+  },{
+    path: '/gallery',
+    name: 'gallery',
+    component:gallery
+  },
+
+
   {
     path: '/about',
     name: 'about',
