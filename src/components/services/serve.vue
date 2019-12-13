@@ -6,14 +6,27 @@
                <canvas width="600" height="400"></canvas>
            </div>
            <div>
-               <div class="uk-card-body" >
-                   <h3 class="uk-card-title">Media Left</h3>
-                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
-                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
-                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
-                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
-                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
-                   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+               <div class="uk-card-body " >
+                   <h3 class="uk-card-title">Services</h3>
+                   <p class="uk-text-justify"><span>Dry Cargo</span> - For your dry cargo shipping needs, AD Logistics is well equipped with a
+                       vast fleet of secure containers. With knowledgeable and caring employees, a wide variety
+                       of containers and fixed-day sailing schedules, we are always ready to handle any type of
+                       cargo. From building materials and hardware to steel-fabricated metals, plastic products,
+                       rubber goods, coffee, spare parts, and non-printed materials, whatever your import or
+                       export cargo needs are, look no further. AD Logistics is always the carrier of choice. AD
+                       Logistics offers 20 foot, 40 foot, and 45 foot containers for your dry goods shipping
+                       needs.</p>
+                   <p class="uk-text-justify">
+                       <span>Project Cargo </span>- AD Logistics has the experience and capabilities to handle all of your
+                       oversized construction and agriculture machinery, power plants and heavy equipment of
+                       all kinds.With an advanced, specialized equipment fleet that includes: lowboys, roll
+                       trailers and single and double drop deck flatbeds, we provide the flexibility and
+                       knowledge required to carry this special cargo.Our fleet of nearly 2,000 (20ft. and 40ft.)
+                       flat racks, excellent handling equipment, and ample staging area is ideal for safe and
+                       efficient handling of heavy lift and oversized cargo.In addition to the use of gantry cranes
+                       at various United States terminals,
+                   </p>
+
                </div>
            </div>
        </div>
@@ -35,7 +48,11 @@
         background: #202020 !important;
         height: 400px;
     }
-    p,h3{
+    p{
         color: white;
     }
+    h3{
+        color: #FF2500;
+    }
+    span{color: green}
 </style>

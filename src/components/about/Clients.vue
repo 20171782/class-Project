@@ -52,13 +52,10 @@
 </script>
 
 <style scoped>
-.top{
-    padding-top: 100px;
-    padding-bottom: 100px;
 
-}
     img{
-        width: 200px;
-        height: 150px;
+        width: 100px;
+        height: 100px;
     }
+    .top{margin-bottom: 100px}
 </style>

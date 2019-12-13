@@ -2,7 +2,7 @@
     <div >
         <navi></navi>
         <div class="uk-height-large uk-flex uk-flex-center uk-flex-middle uk-background-cover uk-light" data-src="https://images.pexels.com/photos/1095814/pexels-photo-1095814.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500" uk-img>
-            <h1>News And Events</h1>
+            <h1>Our Services</h1>
         </div>
        <div class="hello">
            <intro></intro>

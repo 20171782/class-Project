@@ -1,14 +1,17 @@
 <template>
-<div class="top uk-section uk-section-muted">
+<div class="top uk-section uk-section-muted uk-margin-remove">
   <div class="uk-container">
       <h2 class="uk-text-center ">Overview</h2>
       <h1 class="uk-text-center uk-text-bold " style="padding-bottom: 80px">ABOUT US</h1>
 
       <div class="uk-card  uk-grid-collapse uk-child-width-1-2@s uk-margin" uk-grid>
           <div>
-              <div class="uk-card-body">
-                  <h3 class="uk-card-title">Media Left</h3>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</p>
+              <div class="uk-card-body uk-text-justify">
+                  <h3 class="uk-card-title  uk-heading-bullet">Brief Overview of the Company</h3>
+                  <p>Established in 2001, AD Logistics, is a premier ocean transportation company providing direct,
+                      regular service between North America, the Caribbean Basin, Central, and South America. With
+                      a fleet of over 30 vessels serving nearly forty ports, AD Logistics is the fastest growing logistics
+                      company in the Western Hemisphere.</p>
               </div>
           </div>
 
@@ -48,7 +51,7 @@
 
 <style scoped>
 .top{
-    margin-top:100px;
+
 }
     img{
         border-radius: 15px 50px;
@@ -57,6 +60,6 @@
         border: 3px solid white;
     }
     h2{
-        color:#db0f31;
+        color:#FF2500;
     }
 </style>

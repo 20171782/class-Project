@@ -5,7 +5,7 @@
           <h1>Gallery</h1>
       </div>
 
-<div class="hello">
+<div class="hello uk-container">
     <div class=" uk-child-width-1-2 uk-child-width-1-3@s uk-grid-match uk-grid-small" uk-grid>
 
 

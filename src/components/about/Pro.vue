@@ -77,7 +77,7 @@
 
     }
     img{
-        border:5px solid #db0f31
+        border:5px solid #FF2500
     }
     h3{
         color:green;
@@ -88,6 +88,6 @@
     }
     p{
         font-size: xx-large;
-        color: #db0f31;
+        color:#FF2500
     }
 </style>

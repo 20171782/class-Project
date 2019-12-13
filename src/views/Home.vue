@@ -71,19 +71,16 @@
          </ul>
      </div>
      <tran id="top"></tran>
-     <a href="#end" uk-scroll><span uk-icon="icon:chevron-down; ratio: 3.5" style="color: #db0f31;"></span></a>
+     <a href="#end" uk-scroll><span uk-icon="icon:chevron-down; ratio: 3.5" style="color: #FF2500"></span></a>
      <overview></overview>
      <mains></mains>
-
-
-
      <Pro></Pro>
      <staff></staff>
      <events></events>
      <testimonies></testimonies>
      <contact></contact>
      <div id="end">
-         <a href="#top" uk-scroll><span uk-icon="icon:chevron-up; ratio: 3.5" style="color: #db0f31;"></span></a>
+         <a href="#top" uk-scroll><span uk-icon="icon:chevron-up; ratio: 3.5" style="color: #FF2500"></span></a>
          <Clients></Clients>
      </div>
  </div>

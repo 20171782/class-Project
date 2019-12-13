@@ -4,13 +4,13 @@
     <div uk-filter="target: .js-filter">
 
       <div class="uk-container uk-text-center">
-          <ul class="">
+          <ul class="me">
 <!--              <li class="uk-button uk-button-danger" uk-filter-control=".all"><a  href="#">all <span uk-icon="icon: arrow-down"></span></a></li>-->
-              <li class="uk-button uk-button-danger" uk-filter-control=".overview"><a href="#">overview<span uk-icon="icon: arrow-down"></span></a></li>
-              <li class="uk-button uk-button-danger" uk-filter-control=".progress"><a href="#">progress<span uk-icon="icon: arrow-down"></span></a></li>
-              <li class="uk-button uk-button-danger" uk-filter-control=".staff"><a href="#">staff<span uk-icon="icon: arrow-down"></span></a></li>
+              <li class="uk-button " uk-filter-control=".overview"><a href="#">overview<span uk-icon="icon: arrow-down"></span></a></li>
+              <li class="uk-button " uk-filter-control=".progress"><a href="#">progress<span uk-icon="icon: arrow-down"></span></a></li>
+              <li class="uk-button " uk-filter-control=".staff"><a href="#">staff<span uk-icon="icon: arrow-down"></span></a></li>
 
-              <li class="uk-button uk-button-danger" uk-filter-control=".standards"><a href="#">standards<span uk-icon="icon: arrow-down"></span></a></li>
+              <li class="uk-button " uk-filter-control=".standards"><a href="#">standards<span uk-icon="icon: arrow-down"></span></a></li>
           </ul>
       </div>
 
@@ -70,5 +70,8 @@ li{margin-top:30px}
 
     a{color:white !important;}
     a :hover{ text-decoration: none;
+    }
+    .me li {
+        background-color: #FF2500;
     }
 </style>

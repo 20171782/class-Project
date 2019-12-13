@@ -6,6 +6,8 @@ import policy from '../views/BusinessPolicy'
 import Contact from '../views/Contact'
 import services from '@/components/services/services.vue'
 import gallery from '@/views/gallery'
+import order  from '@/components/Solution/OrderManagement.vue'
+import transport  from '@/components/Solution/transportation.vue'
 
 import UIkit from 'uikit';
 import Icons from 'uikit/dist/js/uikit-icons';
@@ -44,10 +46,22 @@ const routes = [
     path: '/services',
     name: 'services',
     component: services
-  },{
+  },
+  {
     path: '/gallery',
     name: 'gallery',
     component:gallery
+  },
+
+  {
+    path: '/order',
+    name: 'OrderManagement',
+    component:order
+  },
+  {
+    path: '/transport',
+    name: 'transport',
+    component:transport
   },
 
 

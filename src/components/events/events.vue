@@ -69,22 +69,19 @@
 </script>
 
 <style scoped>
-img{
-    width: 450px;
-    height: 250px;
-}
+
     .top{
        margin-top: 100px;
        margin-bottom: 100px;
     }
 
     img{
-        height: 600px;
+        height: 300px;
     }
     .uk-inline{
         opacity: 0.8;
     }
-    p{color: darkred}
+    p{color: #FF2500}
     p{
         opacity: 0.9 !important;
     }

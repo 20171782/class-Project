@@ -8,11 +8,11 @@
                 </div>
                 <div class="uk-card-body">
                     <h3 class="uk-card-title">Plane</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,</p>
+                    <p>We provide Aeroplane</p>
 <!--                    <button class="uk-button uk-button-primary">Primary</button>-->
 
 
-                    <button class="uk-button"><a  href="#plane" uk-toggle>Open</a></button>
+                    <button class="uk-button"><a  href="#plane" uk-toggle>Read More</a></button>
 
                     <div id="plane" class="uk-modal-full" uk-modal>
                         <div class="uk-modal-dialog">
@@ -21,7 +21,11 @@
                                 <div class="uk-background-cover" style="background-image: url('https://cdn.pixabay.com/photo/2017/11/01/17/30/airline-2908745__340.png');" uk-height-viewport></div>
                                 <div class="uk-padding-large">
                                     <h1>Plane</h1>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                                    <p>ADL provides a daily expedited trucking Over/Cross Border (Cross Border Road Transport Agency), Door
+                                        to Door Road Transport Service into all frontier countries and throughout Southern/Sub-Saharan and
+                                        Equatorial Africa into all BLNS &amp; SADC (Southern African Development Community) and COMESA
+                                        (Common Market for Eastern &amp; Southern Africa) countries, hauling general cargo such as palletised
+                                        freight, Mining Equipment, machinery, drums and industrial cargo &amp; equipment etc.</p>
                                 </div>
                             </div>
                         </div>
@@ -44,10 +48,10 @@
                 </div>
                 <div class="uk-card-body" uk-scrollspy-class="uk-animation-slide-top">
                     <h3 class="uk-card-title">truck</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,</p>
+                    <p>We provide truck</p>
 
 
-                    <button class="uk-button"><a  href="#truck" uk-toggle>Open</a></button>
+                    <button class="uk-button"><a  href="#truck" uk-toggle>Read More</a></button>
 
                     <div id="truck" class="uk-modal-full" uk-modal>
                         <div class="uk-modal-dialog">
@@ -56,7 +60,11 @@
                                 <div class="uk-background-cover" style="background-image: url('https://cdn.pixabay.com/photo/2015/01/03/21/05/truck-587819__340.jpg');" uk-height-viewport></div>
                                 <div class="uk-padding-large">
                                     <h1>Truck</h1>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                                    <p>ADL provides a daily expedited trucking Over/Cross Border (Cross Border Road Transport Agency), Door
+                                        to Door Road Transport Service into all frontier countries and throughout Southern/Sub-Saharan and
+                                        Equatorial Africa into all BLNS &amp; SADC (Southern African Development Community) and COMESA
+                                        (Common Market for Eastern &amp; Southern Africa) countries, hauling general cargo such as palletised
+                                        freight, Mining Equipment, machinery, drums and industrial cargo &amp; equipment etc.</p>
                                 </div>
                             </div>
                         </div>
@@ -73,9 +81,9 @@
                 </div>
                 <div class="uk-card-body"  >
                     <h3 class="uk-card-title">Ship</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit,</p>
+                    <p>We provide Ships</p>
 
-                    <button class="uk-button"><a  href="#ship" uk-toggle>Open</a></button>
+                    <button class="uk-button"><a  href="#ship" uk-toggle>Read More</a></button>
 
                     <div id="ship" class="uk-modal-full" uk-modal>
                         <div class="uk-modal-dialog">
@@ -83,8 +91,12 @@
                             <div class="uk-grid-collapse uk-child-width-1-2@s uk-flex-middle" uk-grid>
                                 <div class="uk-background-cover" style="background-image: url('https://cdn.pixabay.com/photo/2017/06/24/10/04/container-2437260__340.jpg');" uk-height-viewport></div>
                                 <div class="uk-padding-large">
-                                    <h1>Headline</h1>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                                    <h1>Ships</h1>
+                                    <p>ADL provides a daily expedited trucking Over/Cross Border (Cross Border Road Transport Agency), Door
+                                        to Door Road Transport Service into all frontier countries and throughout Southern/Sub-Saharan and
+                                        Equatorial Africa into all BLNS &amp; SADC (Southern African Development Community) and COMESA
+                                        (Common Market for Eastern &amp; Southern Africa) countries, hauling general cargo such as palletised
+                                        freight, Mining Equipment, machinery, drums and industrial cargo &amp; equipment etc.</p>
                                 </div>
                             </div>
                         </div>
@@ -101,9 +113,9 @@
                 </div>
                 <div class="uk-card-body" >
                     <h3 class="uk-card-title">Train</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, </p>
+                    <p>We provide Trains. </p>
 
-                    <button class="uk-button"><a  href="#train" uk-toggle>Open</a></button>
+                    <button class="uk-button"><a  href="#train" uk-toggle>Read More</a></button>
 
                     <div id="train" class="uk-modal-full" uk-modal>
                         <div class="uk-modal-dialog">
@@ -112,7 +124,11 @@
                                 <div class="uk-background-cover" style="background-image: url('https://cdn.pixabay.com/photo/2013/02/16/02/55/japan-82123__340.jpg');" uk-height-viewport></div>
                                 <div class="uk-padding-large">
                                     <h1>Train</h1>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                                    <p>ADL provides a daily expedited trucking Over/Cross Border (Cross Border Road Transport Agency), Door
+                                        to Door Road Transport Service into all frontier countries and throughout Southern/Sub-Saharan and
+                                        Equatorial Africa into all BLNS &amp; SADC (Southern African Development Community) and COMESA
+                                        (Common Market for Eastern &amp; Southern Africa) countries, hauling general cargo such as palletised
+                                        freight, Mining Equipment, machinery, drums and industrial cargo &amp; equipment etc.</p>
                                 </div>
                             </div>
                         </div>
@@ -138,11 +154,14 @@
 }
     img{
         width: 150px;
-        height: 200px;
+        height: 150px;
     }
     button{
         border-radius: 5px;
-        background: #db0f31;
+        background: #FF2500
     }
-
+    a{color: white}
+h3{
+   color: green
+}
 </style>

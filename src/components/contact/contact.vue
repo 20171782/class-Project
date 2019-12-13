@@ -27,21 +27,19 @@
 
     }
     img{
-        border:5px solid #db0f31
+        border:5px solid #FF2500
     }
     h3{
         color:green;
     }
 
-    .uk-container{
-        margin-top: 50px;
-    }
+
     p,h1{
 
         color: white;
     }
     button{
         border-radius: 5px;
-        background: #db0f31;
+        background: #FF2500
     }
 </style>

@@ -9,15 +9,13 @@
                <div class=" uk-child-width-1-2@s " uk-grid>
                    <div class="test uk-text-justify">
                        <div>
-                           <p>Ballynure District</p>
-                           <p>Harry Watch PO</p>
-                           <p>Manchester </p>
-                           <p>Jamaica</p>
+                           <h3>Headquarters</h3>
+                           <p>80-82 Second Street Port Bustamante Kingston 13</p>
+                           <p>Kingston, Jamaica</p>
+                           <p>Phone: (876) 632-5566</p>
+                           <p>Email: customer@adlogistics.com</p>
                        </div>
-                       <div>
-                           <p>Email:ds7513635@gmail.com</p>
-                           <p>Telephone: (876) 3797873</p>
-                       </div>
+
                    </div>
                    <div>
                        <div class="uk-card-body">
@@ -34,13 +32,14 @@
                                    </div>
                                </fieldset>
                            </form>
-                           <button class="uk-button uk-align-left" style="background-color: #222222;color: green">Primary</button>
+                           <button class="uk-button uk-align-left" style="background-color: green;color: white">Primary</button>
                        </div>
                    </div>
                </div>
            </div>
 
-           <div style="background:#db0f31 ">
+           <div style="background:#FF2500 ">
+               <h1 class="uk-text-bold" style="padding-top: 20px;color: white">Find Us</h1>
               <div style="padding: 50px">
                   <iframe width="950" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=university%20of%20san%20francisco&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
               </div>
